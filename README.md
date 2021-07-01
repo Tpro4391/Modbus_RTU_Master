@@ -11,7 +11,7 @@
 
 
 ## Overview
-This is an Arduino library for communicating with Modbus slaves over RS232/485 (via RTU protocol).
+This is an Arduino library for communicating with Modbus slaves over RS232/485 (via RTU protocol). Hỗ trợ ESP8266 và ESP32
 
 
 ## Features
